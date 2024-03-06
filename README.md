@@ -16,11 +16,12 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Collabera Digital** - 🌱 I’m currently learning
-**Data Engineering** - 👯 I’m looking to collaborate on **Projects** - 👨‍💻 All of
-my projects are available at
-[https://jmgabriel13.github.io/portfolio.dev/](https://jmgabriel13.github.io/portfolio.dev/)
-- 💬 Ask me about **.Net, C#** - 📫 How to reach me **jmgabriel12.jg@gmail.com**
+- 🔭 I’m currently working on **Collabera Digital** 
+- 🌱 I’m currently learning **Data Engineering** 
+- 👯 I’m looking to collaborate on **Projects** 
+- 👨‍💻 All of my projects are available at [https://jmgabriel13.github.io/portfolio.dev/](https://jmgabriel13.github.io/portfolio.dev/)
+- 💬 Ask me about **.Net, C#** 
+- 📫 How to reach me **jmgabriel12.jg@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
