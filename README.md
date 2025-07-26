@@ -16,7 +16,7 @@
   /></a>
 </p>
 
-- 🔭 I’m currently working on **Collabera Digital** 
+- 🔭 I’m currently working on Fintech Company (**MoneyMe**)
 - 🌱 I’m currently learning **Data Engineering** 
 - 👯 I’m looking to collaborate on **Projects** 
 - 👨‍💻 All of my projects are available at [https://jmgabriel13.github.io/portfolio.dev/](https://jmgabriel13.github.io/portfolio.dev/)
