@@ -23,7 +23,6 @@
 - 💬 Ask me about **.Net, C#** 
 - 📫 How to reach me **jmgabriel12.jg@gmail.com**
 
-
 ## AI Engineering / AI-Enabled Development
 
 I approach AI as a **product multiplier**: reduce delivery time, increase team throughput, and unlock better end-user experiences with measurable impact.
@@ -43,7 +42,6 @@ I approach AI as a **product multiplier**: reduce delivery time, increase team t
 
 - **Mini-project (AI integrated in a real app)**
   - [AI Support Copilot (portfolio demo)](https://jmgabriel13.github.io/portfolio.dev/) — AI-assisted support workflow integrated into a product-facing web experience (not a notebook-only prototype).
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
