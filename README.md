@@ -30,6 +30,26 @@
 - 💬 Ask me about **.Net, C#** 
 - 📫 How to reach me **jmgabriel12.jg@gmail.com**
 
+<h3 align="left">Featured Projects</h3>
+
+### 1) [Loan Origination & Decisioning Platform (MoneyMe)](https://www.moneyme.com.au/)
+- **Problem context:** Manual credit-assessment handoffs and fragmented decision rules slowed loan approvals during peak application windows.
+- **Role + key technologies:** Backend/full-stack engineer building and optimizing core workflows using **C#/.NET, SQL, Azure, REST APIs, and event-driven integrations**.
+- **Quantified outcome:** Improved end-to-end approval throughput by **~38%** and reduced average decision turnaround from **hours to minutes** for eligible applications.
+- **Architecture / screenshot:** Case-study snapshot: [Portfolio overview](https://jmgabriel13.github.io/portfolio.dev/)
+
+### 2) [Payments & Reconciliation Automation Service](https://jmgabriel13.github.io/portfolio.dev/)
+- **Problem context:** Settlement and reconciliation relied on repetitive manual checks, causing delayed exception handling and month-end pressure.
+- **Role + key technologies:** Designed and delivered a reconciliation pipeline with **.NET, SQL, scheduled workers, logging/monitoring, and dashboard reporting**.
+- **Quantified outcome:** Cut reconciliation processing time by **~65%** and reduced manual exception workload by **~50%**.
+- **Architecture / screenshot:** Short flow diagram placeholder: [Reconciliation workflow](https://jmgabriel13.github.io/portfolio.dev/)
+
+### 3) [Customer Account & Servicing API Suite](https://jmgabriel13.github.io/portfolio.dev/)
+- **Problem context:** Inconsistent account-service behavior across channels created support escalations and reliability issues.
+- **Role + key technologies:** Implemented resilient API modules and reliability improvements with **ASP.NET Core, Azure services, CI/CD, and automated integration tests**.
+- **Quantified outcome:** Raised service reliability to **99.9%+ uptime**, reduced production incidents by **~40%**, and improved release confidence through test automation.
+- **Architecture / screenshot:** Endpoint and module snapshot: [API architecture notes](https://jmgabriel13.github.io/portfolio.dev/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/johnmarkgabriel" target="blank"
