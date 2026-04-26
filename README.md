@@ -37,6 +37,25 @@
 - 💬 Ask me about **.Net, C#** 
 - 📫 How to reach me **jmgabriel12.jg@gmail.com**
 
+## AI Engineering / AI-Enabled Development
+
+AI is a **multiplier for product delivery and user value** in my workflow: faster shipping, better support experiences, and more reliable operations.
+
+- **AI use-cases I’ve implemented / can implement**
+  - Intelligent support assistant (triage, suggested replies, and knowledge-grounded responses)
+  - Summarization (tickets, incidents, release notes, and long-form conversations)
+  - Document extraction (OCR + structured field mapping for invoices/forms)
+  - Workflow automation (classification, routing, and backend action triggers)
+
+- **Practical stack**
+  - LLM APIs (OpenAI / Azure OpenAI patterns)
+  - Prompt design (task decomposition, few-shot prompts, and versioning)
+  - Evaluation basics (golden sets, qualitative rubrics, latency + cost checks)
+  - Guardrails (PII controls, output validation, and human-in-the-loop paths)
+  - Observability (traces, token/latency metrics, and failure analysis)
+
+- **Mini-project (real app integration)**
+  - [AI Support Copilot – Product Demo](https://jmgabriel13.github.io/portfolio.dev/) — AI-assisted support workflow integrated into a product-facing web app (not notebook-only).
 <h3 align="left">Featured Projects</h3>
 
 ### 1) [Loan Origination & Decisioning Platform (MoneyMe)](https://www.moneyme.com.au/)
