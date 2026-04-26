@@ -23,6 +23,28 @@
 - 💬 Ask me about **.Net, C#** 
 - 📫 How to reach me **jmgabriel12.jg@gmail.com**
 
+
+## AI Engineering / AI-Enabled Development
+
+I approach AI as a **product multiplier**: reduce delivery time, increase team throughput, and unlock better end-user experiences with measurable impact.
+
+- **AI use-cases I’ve implemented / can implement**
+  - Intelligent support assistant for ticket triage, suggested replies, and knowledge lookup
+  - Summarization for long threads, documents, and release/change logs
+  - Document extraction (OCR + structured parsing) for invoices, forms, and internal records
+  - Workflow automation using AI classification/routing + backend actions (alerts, updates, approvals)
+
+- **Practical AI stack**
+  - LLM APIs: OpenAI/Azure OpenAI style integrations behind service abstractions
+  - Prompt design: role/task prompting, few-shot examples, prompt versioning, and fallback prompts
+  - Evaluation basics: golden datasets, qualitative review rubrics, latency/cost tracking, regression checks
+  - Guardrails: input/output validation, PII redaction, policy filters, human-in-the-loop for high-risk flows
+  - Observability: tracing prompts/responses, error analytics, token usage, and model quality dashboards
+
+- **Mini-project (AI integrated in a real app)**
+  - [AI Support Copilot (portfolio demo)](https://jmgabriel13.github.io/portfolio.dev/) — AI-assisted support workflow integrated into a product-facing web experience (not a notebook-only prototype).
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/johnmarkgabriel" target="blank"
