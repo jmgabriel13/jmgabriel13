@@ -8,6 +8,13 @@
   />
 </p>
 
+
+## Let’s work together
+- **Open to:** Full-time, remote, and contract roles
+- **Preferred domains:** FinTech, SaaS, AI-enabled apps
+- **Best contact:** [LinkedIn](https://linkedin.com/in/johnmarkgabriel) first, email ([jmgabriel12.jg@gmail.com](mailto:jmgabriel12.jg@gmail.com)) second
+- **CTA:** Open to interviews/projects—message me with role details.
+
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
@@ -334,6 +341,13 @@
     />
   </a>
 </p>
+
+
+## Let’s work together
+- **Open to:** Full-time, remote, and contract roles
+- **Preferred domains:** FinTech, SaaS, AI-enabled apps
+- **Best contact:** [LinkedIn](https://linkedin.com/in/johnmarkgabriel) first, email ([jmgabriel12.jg@gmail.com](mailto:jmgabriel12.jg@gmail.com)) second
+- **CTA:** Open to interviews/projects—message me with role details.
 
 <p>
   <img
