@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm John Mark Gabriel</h1>
-<h3 align="center">A developer from PH</h3>
+<h1 align="center">John Mark Gabriel — Senior Full-Stack .NET Engineer</h1>
+<p align="center">
+  I build and scale FinTech products with .NET/C#, cloud-native architecture, and practical AI features that improve decisioning and operations.
+</p>
+
+### I help teams…
+- Ship product increments faster with clear architecture and delivery discipline.
+- Improve reliability through resilient services, observability, and performance tuning.
+- Integrate AI-assisted workflows that boost developer productivity and business throughput.
 
 <p align="left">
   <img
