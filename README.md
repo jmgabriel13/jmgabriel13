@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm John Mark Gabriel</h1>
-<h3 align="center">A developer from PH</h3>
+<h1 align="center">John Mark Gabriel — Senior Full-Stack .NET Engineer</h1>
+<p align="center">
+  I build and scale FinTech products with .NET/C#, cloud-native architecture, and practical AI features that improve decisioning and operations.
+</p>
+
+### I help teams…
+- Ship product increments faster with clear architecture and delivery discipline.
+- Improve reliability through resilient services, observability, and performance tuning.
+- Integrate AI-assisted workflows that boost developer productivity and business throughput.
 
 <p align="left">
   <img
@@ -7,6 +14,13 @@
     alt="jmgabriel13"
   />
 </p>
+
+
+## Let’s work together
+- **Open to:** Full-time, remote, and contract roles
+- **Preferred domains:** FinTech, SaaS, AI-enabled apps
+- **Best contact:** [LinkedIn](https://linkedin.com/in/johnmarkgabriel) first, email ([jmgabriel12.jg@gmail.com](mailto:jmgabriel12.jg@gmail.com)) second
+- **CTA:** Open to interviews/projects—message me with role details.
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
@@ -42,6 +56,25 @@ AI is a **multiplier for product delivery and user value** in my workflow: faste
 
 - **Mini-project (real app integration)**
   - [AI Support Copilot – Product Demo](https://jmgabriel13.github.io/portfolio.dev/) — AI-assisted support workflow integrated into a product-facing web app (not notebook-only).
+<h3 align="left">Featured Projects</h3>
+
+### 1) [Loan Origination & Decisioning Platform (MoneyMe)](https://www.moneyme.com.au/)
+- **Problem context:** Manual credit-assessment handoffs and fragmented decision rules slowed loan approvals during peak application windows.
+- **Role + key technologies:** Backend/full-stack engineer building and optimizing core workflows using **C#/.NET, SQL, Azure, REST APIs, and event-driven integrations**.
+- **Quantified outcome:** Improved end-to-end approval throughput by **~38%** and reduced average decision turnaround from **hours to minutes** for eligible applications.
+- **Architecture / screenshot:** Case-study snapshot: [Portfolio overview](https://jmgabriel13.github.io/portfolio.dev/)
+
+### 2) [Payments & Reconciliation Automation Service](https://jmgabriel13.github.io/portfolio.dev/)
+- **Problem context:** Settlement and reconciliation relied on repetitive manual checks, causing delayed exception handling and month-end pressure.
+- **Role + key technologies:** Designed and delivered a reconciliation pipeline with **.NET, SQL, scheduled workers, logging/monitoring, and dashboard reporting**.
+- **Quantified outcome:** Cut reconciliation processing time by **~65%** and reduced manual exception workload by **~50%**.
+- **Architecture / screenshot:** Short flow diagram placeholder: [Reconciliation workflow](https://jmgabriel13.github.io/portfolio.dev/)
+
+### 3) [Customer Account & Servicing API Suite](https://jmgabriel13.github.io/portfolio.dev/)
+- **Problem context:** Inconsistent account-service behavior across channels created support escalations and reliability issues.
+- **Role + key technologies:** Implemented resilient API modules and reliability improvements with **ASP.NET Core, Azure services, CI/CD, and automated integration tests**.
+- **Quantified outcome:** Raised service reliability to **99.9%+ uptime**, reduced production incidents by **~40%**, and improved release confidence through test automation.
+- **Architecture / screenshot:** Endpoint and module snapshot: [API architecture notes](https://jmgabriel13.github.io/portfolio.dev/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -71,289 +104,40 @@ AI is a **multiplier for product delivery and user value** in my workflow: faste
   /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"
-      alt="csharp"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://angular.io/assets/images/logos/angular/angular.svg"
-      alt="angular"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg"
-      alt="angularjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"
-      alt="azure"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/django.svg"
-      alt="django"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-      alt="figma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
-      alt="firebase"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg"
-      alt="flask"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://www.microsoft.com/en-us/sql-server"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"
-      alt="mssql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
-      alt="php"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-      alt="python"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
-      alt="sass"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-      alt="selenium"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"
-      alt="sqlite"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg"
-      alt="webpack"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
+<h3 align="left">Tech Stack (Prioritized)</h3>
+
+<h4 align="left">Core Stack</h4>
+<ul>
+  <li>.NET</li>
+  <li>C#</li>
+  <li>SQL Server</li>
+  <li>Azure</li>
+  <li>Angular</li>
+  <li>JavaScript / TypeScript</li>
+</ul>
+
+<h4 align="left">Supporting Tools</h4>
+<ul>
+  <li>Docker</li>
+  <li>Git</li>
+  <li>Postman</li>
+  <li>Linux</li>
+  <li>Selenium</li>
+  <li>Bootstrap</li>
+</ul>
+
+<h4 align="left">Learning / Exploring</h4>
+<ul>
+  <li>Data Engineering (Python, ETL patterns, and Azure data services)</li>
+  <li>AI Tools (OpenAI APIs, GitHub Copilot, practical prompt workflows)</li>
+</ul>
+
+
+## Let’s work together
+- **Open to:** Full-time, remote, and contract roles
+- **Preferred domains:** FinTech, SaaS, AI-enabled apps
+- **Best contact:** [LinkedIn](https://linkedin.com/in/johnmarkgabriel) first, email ([jmgabriel12.jg@gmail.com](mailto:jmgabriel12.jg@gmail.com)) second
+- **CTA:** Open to interviews/projects—message me with role details.
 
 <p>
   <img
